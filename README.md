@@ -1,2 +1,2 @@
 # git_practice
-Learning to use GitHub
+I am learning to use GitHub!
