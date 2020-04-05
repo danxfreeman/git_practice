@@ -5,3 +5,5 @@ I am learning to use GitHub!
 
 ![](/Users/danielfreeman/Desktop/marker_spaghetti.png)
 > This is a caption
+
+## Second section
